@@ -24,8 +24,7 @@ These commands help manage sessions, validate configurations, and update environ
 - `--execute <command>`: Runs a specified command.  
   - `| --composer`: Executes Composer-related commands.  
   - `| other php extension…`: Executes any additional PHP extensions.
-    
- # **Duplex Operations Guide**  
+
 
 ## **Session Management**  
 These commands allow the creation of new sessions, setting them as default, and transferring data between sessions.  
