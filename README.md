@@ -59,17 +59,16 @@ This command initializes the **Universal Session Package Manager**, enabling dup
 
 | **Programming Language** | **Package/Library Manager**                          | **Supported?** |
 |-------------------------|----------------------------------------------------|---------------|
-| C                       | (No standard package manager)                      | ✅🌎         |
 | Python                  | pip, conda, poetry, pipenv                         | ✅🌎         |
-| JavaScript/Node.js      | npm, yarn, pnpm                                   | ❌           |
+| JavaScript/Node.js      | npm, yarn, pnpm                                   | ✅🌎          |
 | Ruby                    | RubyGems, Bundler                                 | ❌           |
 | Java                    | Maven, Gradle, Apache Ivy                         | ✅           |
 | PHP                     | Composer                                         | ✅           |
-| C/C++                   | vcpkg, Conan, Hunter                              | ❌           |
-| Go                      | go get, Go modules, dep (deprecated)              | ❌           |
-| Rust                    | cargo                                            | ❌           |
+| C/C++                   | vcpkg, Conan, Hunter                              | ✅           |
+| Go                      | go get, Go modules, dep (deprecated)              | ✅           |
+| Rust                    | cargo                                            | ✅           |
 | Swift                   | CocoaPods, Carthage, Swift Package Manager (SPM) | ✅           |
-| .NET (C#)               | NuGet                                            | ❌           |
+| .NET (C#)               | NuGet                                            | ✅           |
 | R                       | install.packages(), renv                          | ❌           |
 | Haskell                 | Cabal, Stack                                      | ❌           |
 | Elixir                  | Mix                                              | ❌           |
