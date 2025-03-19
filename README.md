@@ -62,12 +62,12 @@ This command initializes the **Universal Session Package Manager**, enabling dup
 | Python                  | pip, conda, poetry, pipenv                         | ✅🌎         |
 | JavaScript/Node.js      | npm, yarn, pnpm                                   | ✅🌎          |
 | Ruby                    | RubyGems, Bundler                                 | ❌           |
-| Java                    | Maven, Gradle, Apache Ivy                         | ✅           |
+| Java                    | Maven, Gradle, Apache Ivy                         | ❌           |
 | PHP                     | Composer                                         | ✅           |
 | C/C++                   | vcpkg, Conan, Hunter                              | ✅           |
 | Go                      | go get, Go modules, dep (deprecated)              | ✅           |
 | Rust                    | cargo                                            | ✅           |
-| Swift                   | CocoaPods, Carthage, Swift Package Manager (SPM) | ✅           |
+| Swift                   | CocoaPods, Carthage, Swift Package Manager (SPM) | ❌           |
 | .NET (C#)               | NuGet                                            | ✅           |
 | R                       | install.packages(), renv                          | ❌           |
 | Haskell                 | Cabal, Stack                                      | ❌           |
